@@ -55,4 +55,10 @@ Add predictive modeling (e.g., demand forecasting)
 Automate the pipeline with Airflow/cron
 Expand dataset with real-time API data
 ## Author & Contact
+Author: Pratisha Biswal
 
+Project: Brand Sales Analysis
+
+Email: pratishabiswal@gmail.com
+
+GitHub: https://github.com/Pratisha-code
